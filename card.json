@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Clothes Donation Drive",
+      "image": "https://i.ibb.co.com/9hfDH3w/ph-61993-242126.jpg",
+      "description": "Help us collect warm clothing for underprivileged families during the winter.",
+      "status": "Active",
+      "contactInfo": "contact@donationdrive.org",
+      "division": "Dhaka",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/1"
+    },
+    {
+      "id": 2,
+      "title": "Food for Flood Victims",
+      "image": "https://i.ibb.co.com/vhD7VZK/image.png",
+      "description": "Join hands to provide food and essentials to flood-affected areas.",
+      "status": "Active",
+      "contactInfo": "relief@helpnow.com",
+      "division": "Sylhet",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/2"
+    },
+    {
+      "id": 3,
+      "title": "Books for Bright Futures",
+      "image": "https://i.ibb.co.com/LdhB5nL/image.png",
+      "description": "Donate books to ensure children from low-income families have access to education.",
+      "status": "Completed",
+      "contactInfo": "info@brightfutures.org",
+      "division": "Chattogram",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/3"
+    },
+    {
+      "id": 4,
+      "title": "Blanket Distribution Campaign",
+      "image": "https://i.ibb.co.com/6JVSxvB/image.png",
+      "description": "Contribute to our campaign to distribute blankets to those in need this winter.",
+      "status": "Active",
+      "contactInfo": "support@donations.org",
+      "division": "Dhaka",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/4"
+    },
+    {
+      "id": 5,
+      "title": "Healthcare Supplies for Villages",
+      "image": "https://i.ibb.co.com/Ld7y5Ns/image.png",
+      "description": "Provide basic healthcare supplies to remote villages.",
+      "status": "Active",
+      "contactInfo": "medicalaid@charityhub.org",
+      "division": "Barisal",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/5"
+    },
+    {
+      "id": 6,
+      "title": "School Supplies for Rural Kids",
+      "image": "https://i.ibb.co.com/GtyGhsM/image.png",
+      "description": "Support children in rural areas with essential school supplies.",
+      "status": "Completed",
+      "contactInfo": "education@charitygroup.com",
+      "division": "Khulna",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/6"
+    },
+    {
+      "id": 7,
+      "title": "Clean Water Project",
+      "image": "https://i.ibb.co.com/WpgDJcy/image.png",
+      "description": "Ensure access to clean water in underserved areas.",
+      "status": "Active",
+      "contactInfo": "water@helpinitiative.org",
+      "division": "Sylhet",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/7"
+    },
+    {
+      "id": 8,
+      "title": "Childhood Nutrition Drive",
+      "image": "https://i.ibb.co.com/px0y42z/image.png",
+      "description": "Fight malnutrition by providing nutritious meals to children.",
+      "status": "Active",
+      "contactInfo": "nutrition@foodforall.org",
+      "division": "Chattogram",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/8"
+    },
+    {
+      "id": 9,
+      "title": "Disaster Relief Supplies",
+      "image": "https://i.ibb.co.com/JFzPZqb/image.png",
+      "description": "Donate essential items for areas affected by recent natural disasters.",
+      "status": "Completed",
+      "contactInfo": "relief@disasterhelp.org",
+      "division": "Dhaka",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/9"
+    },
+    {
+      "id": 10,
+      "title": "Elderly Care Support",
+      "image": "https://i.ibb.co.com/MRvv48b/image.png",
+      "description": "Provide support and essentials to elderly citizens in need.",
+      "status": "Active",
+      "contactInfo": "elderlycare@charityservices.org",
+      "division": "Barisal",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/10"
+    },
+    {
+      "id": 11,
+      "title": "Youth Education Campaign",
+      "image": "https://i.ibb.co.com/d0kctVV/image.png",
+      "description": "Sponsor education programs for the youth in rural areas.",
+      "status": "Active",
+      "contactInfo": "education@youthcharity.org",
+      "division": "Khulna",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/11"
+    },
+    {
+      "id": 12,
+      "title": "Hygiene Kits Distribution",
+      "image": "https://i.ibb.co.com/CQrVh0x/image.png",
+      "description": "Distribute hygiene kits to prevent diseases in underserved communities.",
+      "status": "Active",
+      "contactInfo": "hygiene@healthcharity.org",
+      "division": "Dhaka",
+      "buttonText": "Donate Now",
+      "detailsPage": "/campaign/12"
+    }
+  ]
